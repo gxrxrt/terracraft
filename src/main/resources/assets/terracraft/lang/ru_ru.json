@@ -1,0 +1,17 @@
+{
+  "item.terracraft.ruby_item" : "Рубин",
+  "item.terracraft.gel_item" : "Гель",
+  "itemGroup.terracraft.terracraft_itemgroup" : "Terracraft",
+  "itemGroup.terracraft.terracraft_armor_itemgroup" : "Броня",
+  "itemGroup.terracraft.terracraft_tools_itemgroup": "Инструменты",
+  "block.terracraft.ruby_block" : "Рубиновый блок",
+  "item.terracraft.ruby_helmet": "Рубиновый шлем",
+  "item.terracraft.ruby_chestplate": "Рубиновый нагрудник",
+  "item.terracraft.ruby_leggings": "Рубиновые поножи",
+  "item.terracraft.ruby_boots": "Рубиновые траки",
+  "item.terracraft.ruby_sword": "Рубиновый меч",
+  "item.terracraft.ruby_axe": "Рубиновый топор",
+  "item.terracraft.ruby_pickaxe": "Рубиновая кирка",
+  "item.terracraft.ruby_shovel": "Рубиновая лопата",
+  "item.terracraft.ruby_hoe": "Рубиновая мотыга"
+}

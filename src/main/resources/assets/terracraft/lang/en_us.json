@@ -1,0 +1,17 @@
+{
+  "item.terracraft.ruby_item" : "Ruby",
+  "item.terracraft.gel_item" : "Gel",
+  "itemGroup.terracraft.terracraft_itemgroup" : "Terracraft",
+  "itemGroup.terracraft.terracraft_armor_itemgroup" : "Armor",
+  "itemGroup.terracraft.terracraft_tools_itemgroup": "Tools",
+  "block.terracraft.ruby_block" : "Ruby block",
+  "item.terracraft.ruby_helmet": "Ruby helmet",
+  "item.terracraft.ruby_chestplate": "Ruby chestplate",
+  "item.terracraft.ruby_leggings": "Ruby leggings",
+  "item.terracraft.ruby_boots": "Ruby boots",
+  "item.terracraft.ruby_sword": "Ruby sword",
+  "item.terracraft.ruby_axe": "Ruby axe",
+  "item.terracraft.ruby_pickaxe": "Ruby pickaxe",
+  "item.terracraft.ruby_shovel": "Ruby shovel",
+  "item.terracraft.ruby_hoe": "Ruby hoe"
+}

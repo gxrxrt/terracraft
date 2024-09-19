@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.gxrxrtprod.terracraft.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "TerracraftMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

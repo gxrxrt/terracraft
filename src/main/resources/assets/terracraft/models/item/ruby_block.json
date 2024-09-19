@@ -1,0 +1,6 @@
+{
+  "parent": "terracraft:block/ruby_block",
+  "textures": {
+    "layer0" : "terracraft:item/gel_item"
+  }
+}

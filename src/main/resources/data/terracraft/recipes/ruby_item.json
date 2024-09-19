@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "terracraft:ruby_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "terracraft:ruby_item"
+  }
+}

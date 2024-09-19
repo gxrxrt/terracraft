@@ -1,0 +1,7 @@
+{
+  "variants" : {
+    "": {
+      "model" : "terracraft:block/ruby_block"
+    }
+  }
+}
